@@ -8,9 +8,9 @@
 	>
 
 <channel>
-	<title>Revive Leeds</title>
+	<title>revive &#8211; Revive Leeds</title>
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../index.html</link>
+	<link>./../../../index.html</link>
 	<description></description>
 	<lastBuildDate>Thu, 24 May 2018 13:46:19 +0000</lastBuildDate>
 	<language>en-GB</language>
@@ -19,28 +19,28 @@
 	<generator>https://wordpress.org/?v=4.9.6</generator>
 
 <image>
-	<url>./../wp-content/uploads/2018/04/cropped-logo-512-by-512-32x32.png</url>
-	<title>Revive Leeds</title>
-	<link>./../index.html</link>
+	<url>./../../../wp-content/uploads/2018/04/cropped-logo-512-by-512-32x32.png</url>
+	<title>revive &#8211; Revive Leeds</title>
+	<link>./../../../index.html</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Happy Birthday Revive</title>
-		<link>./../2018/05/24/happy-birthday-revive/index.html</link>
-		<comments>./../2018/05/24/happy-birthday-revive/index.html#respond</comments>
+		<link>./../../../2018/05/24/happy-birthday-revive/index.html</link>
+		<comments>./../../../2018/05/24/happy-birthday-revive/index.html#respond</comments>
 		<pubDate>Thu, 24 May 2018 13:46:19 +0000</pubDate>
 		<dc:creator><![CDATA[revive]]></dc:creator>
 				<category><![CDATA[Uncategorised]]></category>
 
-		<guid isPermaLink="false">./../index.html?p=92</guid>
-		<description><![CDATA[Revive is celebrating its first official year in Kirkstall today. We are proud to share some statistics with you, our customers, regarding the work we do. In a year, it is estimated that we have sold 30,000 items of clothing, 49,000 books and 100,000 of Bric-à-brac items. Based on statistics from the Furniture Re-use Network, &#8230; <p class="link-more"><a href="./../2018/05/24/happy-birthday-revive/index.html" class="more-link" data-wpel-link="internal">Continue reading<span class="screen-reader-text"> "Happy Birthday Revive"</span></a></p>]]></description>
+		<guid isPermaLink="false">./../../../index.html?p=92</guid>
+		<description><![CDATA[Revive is celebrating its first official year in Kirkstall today. We are proud to share some statistics with you, our customers, regarding the work we do. In a year, it is estimated that we have sold 30,000 items of clothing, 49,000 books and 100,000 of Bric-à-brac items. Based on statistics from the Furniture Re-use Network, &#8230; <p class="link-more"><a href="./../../../2018/05/24/happy-birthday-revive/index.html" class="more-link" data-wpel-link="internal">Continue reading<span class="screen-reader-text"> "Happy Birthday Revive"</span></a></p>]]></description>
 				<content:encoded><![CDATA[<p>Revive is celebrating its first official year in Kirkstall today. We are proud to share some statistics with you, our customers, regarding the work we do. In a year, it is estimated that we have sold 30,000 items of clothing, 49,000 books and 100,000 of Bric-à-brac items.</p>
 <p>Based on statistics from the Furniture Re-use Network, an organisation that oversees re-use businesses; the impact on our local community is that 3,500 households have saved an estimated half a million pounds y reusing rather than buying new.</p>
 <p>It is also estimated that we have diverted a quarter of a million kilograms worth of items from landfill.</p>
 <p>We at Revive would like to thank our customers; as none of this would have been possible without them.</p>
 ]]></content:encoded>
-			<wfw:commentRss>./../2018/05/24/happy-birthday-revive/feed/index.html</wfw:commentRss>
+			<wfw:commentRss>./../../../2018/05/24/happy-birthday-revive/feed/index.html</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

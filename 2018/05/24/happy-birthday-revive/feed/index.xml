@@ -6,11 +6,11 @@
 	
 	>
 <channel>
-	<title>Comments for Revive Leeds</title>
+	<title>Comments on: Happy Birthday Revive</title>
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../../index.html</link>
+	<link>./../index.html</link>
 	<description></description>
-	<lastBuildDate>Sun, 17 Jun 2018 11:31:12 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 17 Jun 2018 11:31:45 +0000</lastBuildDate>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.9.6</generator>
